@@ -98,4 +98,6 @@ class Note {
 ```
 ### iCloud sync
 Select the app target, inside `Sign & Capabilities` enable iCloud->CloudKit->Container
+<img width="1387" alt="iCloud" src="https://github.com/waseemsarwar/Voice-Notes-SwiftData/assets/1830438/a011af37-a2f1-4187-8052-bc805876edf6">
+
 
